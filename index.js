@@ -88,4 +88,4 @@ client.on('messageCreate',message=>{
     }
 })
 
-client.login("OTIzNzc1OTczNTA4NDExMzky.YcU7aw.0yGnvBVaEtdVCn2J761GRLrfwhs")
+client.login("")
